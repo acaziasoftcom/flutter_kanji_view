@@ -1,4 +1,4 @@
-# flutter_kanji_view [![Pub](https://img.shields.io/badge/pub-1.0.0-blue)](https://pub.dartlang.org/packages/drawing_animation)
+# flutter_kanji_view [![Pub](https://img.shields.io/badge/pub-1.0.0-blue)](https://pub.dartlang.org/packages/flutter_kanji_view)
 
 ![logo](https://user-images.githubusercontent.com/7723097/74023617-a5181480-49d2-11ea-90c8-76e16efb617b.png)
 
