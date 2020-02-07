@@ -1,6 +1,10 @@
 # flutter_kanji_view [![Pub](https://img.shields.io/badge/pub-1.0.0-blue)](https://pub.dartlang.org/packages/drawing_animation)
 
+![logo](https://user-images.githubusercontent.com/7723097/74023617-a5181480-49d2-11ea-90c8-76e16efb617b.png)
+
 A Flutter library to draw kanji character with animation.
+
+![kanji_drawing](https://user-images.githubusercontent.com/7723097/74023142-7fd6d680-49d1-11ea-8c35-65adefdc2923.gif)
 
 # Introduction
 
@@ -15,7 +19,9 @@ dependencies:
   flutter_kanji_view: ^1.0.0
 ```
 
-## 2. Provide the assets (optional, not recommended since it will increase the app bundle a lot. There are over 6000 SVG files in the package):
+## 2. Provide the assets
+
+(optional, not recommended since it will increase the app bundle a lot. There are over 6000 SVG files in the package):
 
 - Download KanjiVG pack from [here](https://github.com/KanjiVG/kanjivg/releases) , get the zip file.
 
