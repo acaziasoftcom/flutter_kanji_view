@@ -1,7 +1,6 @@
 name: flutter_kanji_view
 description: A library for drawing SVG kanji paths.
 version: 1.0.0
-author: Quan Pham <phamvanquan@live.com>
 homepage: https://doko.aniviet.com/
 
 environment:
