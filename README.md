@@ -16,7 +16,7 @@ Moreover, it exposes a third constructor: `.str`, to display the kanji SVG data 
 
 ```yml
 dependencies:
-  flutter_kanji_view: ^1.0.0
+  flutter_kanji_view: ^1.0.2
 ```
 
 ## 2. Provide the assets
@@ -33,6 +33,12 @@ assets:
 ```
 
 ## 3. Use the widget: Same with drawing_animation, you can use it in two ways:
+
+- (Optional) You may want to translate the kanji character to its unicode code counterpart. Just use the `getKanjiUnicode` method provided in this package:
+
+```dart
+getKanjiUnicode('新');
+```
 
 - Without controller: The animation will run once:
 
