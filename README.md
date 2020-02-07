@@ -12,7 +12,7 @@ This library is based on biocarl's [drawing_animation](https://github.com/biocar
 
 Moreover, it exposes a third constructor: `.str`, to display the kanji SVG data downloaded as a string (very handy if you store those SVG on your server).
 
-## 1. Add dependency into your `ppubspec.yaml`
+## 1. Add dependency into your `pubspec.yaml`
 
 ```yml
 dependencies:
