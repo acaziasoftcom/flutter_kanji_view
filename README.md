@@ -1,6 +1,6 @@
-# flutter_kanji_view [![Pub](https://img.shields.io/pub/v/drawing_animation.svg)](https://pub.dartlang.org/packages/drawing_animation)
+# flutter_kanji_view [![Pub](https://img.shields.io/badge/pub-1.0.0-blue)](https://pub.dartlang.org/packages/drawing_animation)
 
-A library to draw kanji character with animation.
+A Flutter library to draw kanji character with animation.
 
 # Introduction
 
